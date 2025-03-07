@@ -1,4 +1,4 @@
-# BeMyRoomie - Frontend : https://docs.google.com/document/d/1XBthZ5AVzIui26VsDh8WpWbkTg9RDjPf2L5AS9QJ6OM/edit?tab=t.0
+# BeMyRoomie - Frontend : [Doc](https://docs.google.com/document/d/1XBthZ5AVzIui26VsDh8WpWbkTg9RDjPf2L5AS9QJ6OM/edit?tab=t.0)
 
 This **BeMyRoomie** project, built using **Vite** for fast development and optimized production builds. The frontend manages user authentication, displays room listings, and integrates with the backend API built with Golang.
 
